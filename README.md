@@ -59,7 +59,6 @@ A useful thing has learned from the challenge was adding dummy element or elemen
 
 - Github - [Shameer Kamaludeen](https://github.com/shameerkamaludeen)
 - Frontend Mentor - [@shameerkamaludeen](https://www.frontendmentor.io/profile/shameerkamaludeen)
-- Twitter - [@ShameerKamalud1](https://twitter.com/ShameerKamalud1)
 
 ## Acknowledgments
 
